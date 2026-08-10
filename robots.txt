@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: licenzionnye-kazino-bez-obmana.github.io
+Sitemap: https://licenzionnye-kazino-bez-obmana.github.io/sitemap.xml
